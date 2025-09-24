@@ -9,7 +9,7 @@ export function FeatureSection() {
         <span className="text-body-tag text-blue-200 bg-blue-400 px-2 py-1 w-fit rounded-sm uppercase">
           Simple
         </span>
-        <h2 className="text-gray-100 text-heading-lg">
+        <h2 className="text-gray-100 text-heading-lg font-sans">
           Create an online product catalog in minutes
         </h2>
       </div>
@@ -18,7 +18,7 @@ export function FeatureSection() {
         <span className="text-body-tag text-blue-200 bg-blue-400 px-2 py-1 w-fit rounded-sm uppercase">
           Practical
         </span>
-        <h2 className="text-gray-100 text-heading-lg">
+        <h2 className="text-gray-100 text-heading-lg font-sans">
           Sell to your audience through a single platform
         </h2>
       </div>
@@ -29,7 +29,7 @@ export function FeatureSection() {
             <span className="text-body-tag text-blue-200 bg-blue-400 px-2 py-1 w-fit rounded-sm uppercase">
               Customizable
             </span>
-            <h2 className="text-gray-100 text-heading-lg">
+            <h2 className="text-gray-100 text-heading-lg font-sans">
               Have a personalized online store that reflects your brand&apos;s
               image
             </h2>
