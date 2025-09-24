@@ -22,7 +22,7 @@ const customerStorys = [
   },
 ];
 
-export default function CustomerStorySection() {
+export function CustomerStorySection() {
   return (
     <section className="container py-8 md:py-10">
       <div className="flex flex-col items-center gap-12">
