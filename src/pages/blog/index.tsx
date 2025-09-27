@@ -1,3 +1,5 @@
+import { Search } from "@/components/search/search";
+
 export default function BlogPage() {
   return (
     <div className="flex flex-col py-24 flex-grow h-full">
@@ -15,8 +17,12 @@ export default function BlogPage() {
               Tips and strategies to boost your business
             </h1>
           </div>
+          {/* Search */}
+          <Search />
         </div>
       </header>
+
+      {/* List posts */}
     </div>
   );
 }
